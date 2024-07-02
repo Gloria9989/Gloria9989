@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Gloria
+👋 Hi, I’m Gloria
+
 - 🎓 MPH in Biostatistics & MS in Health Policy and Management
 - 👀 I’m interested in Social Determinants of Health (SDOH), Comparative Effectiveness Research (CER), Pharmacoepidemiology, & Statistical Research 
 - 💞️ I’m looking to collaborate on Biostatistical & Epidemiologic Research Data Analysis 
