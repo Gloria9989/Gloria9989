@@ -7,6 +7,9 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love ✈️ & 🔮
 
+Selected Skills:
+R, SAS, Stata, SQL, Tableau
+
 <!---
 Gloria9989/Gloria9989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
