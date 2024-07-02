@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I love ✈️ & 🔮
 
 Selected Skills:
+
 R, SAS, Stata, SQL, Tableau
 
 <!---
