@@ -1,7 +1,7 @@
 👋 Hi, I’m Gloria
 
-- 🎓 MPH in Biostatistics & MS in Health Policy and Management
-- 👀 I’m interested in Social Determinants of Health (SDOH), Comparative Effectiveness Research (CER), Pharmacoepidemiology, & Statistical Research 
+- 🎓 Master's in Biostatistics & Health Policy and Management
+- 👀 I’m interested in Statistical Research, Clinical Research, Machine Learning, Psychology, Cognitive Science, Neuroscience, Comparative Effectiveness Research, Pharmacoepidemiology, & Social Determinants of Health
 - 💞️ I’m looking to collaborate on Biostatistical & Epidemiologic Research Data Analysis 
 - 📫 rx528@nyu.edu 
 - 😄 Pronouns: she/her
